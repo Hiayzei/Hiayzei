@@ -1,33 +1,27 @@
 # Hiayzei
 
-👋 Hi, I’m Hiayzei, a professional developer specializing in Roblox Studio.
+👋 Hi, I’m Hiayzei, a Fullstack Developer with a specialization in Roblox Studio. I have a passion for creating engaging and dynamic game experiences and optimizing performance to ensure the best user experience.
 
 ## 👀 Interests
 - Game Development
 - Programming Languages
 - Software Optimization
-- AI and Machine Learning
 
 ## 🌱 Currently Learning
 - Advanced Game Mechanics
 - New Programming Frameworks
-- AI Integration in Games
 
 ## 💞️ Looking to Collaborate On
 - Game Projects in Roblox Studio
-- Open Source Software
-- Optimization Techniques for Performance
 
 ## 📫 How to Reach Me
-- **Email:** hiayzei@example.com
-- **LinkedIn:** [Hiayzei](https://www.linkedin.com/in/hiayzei)
+- **Email:** hiayzey@gmail.com
+- **Roblox:** [Hiayzei](https://www.roblox.com/users/5417109518/profile?friendshipSourceType=PlayerSearch)
+- **Discord:** [Hiayzei](https://discord.com/users/1192585524309921875)
 - **Twitter:** [@Hiayzei](https://twitter.com/Hiayzei)
 
 ## 😄 Pronouns
 - He/Him
-
-## ⚡ Fun Fact
-- I once created a fully interactive virtual world in Roblox with over 10,000 active users!
 
 ## 💻 Programming Languages
 
