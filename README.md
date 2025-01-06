@@ -1,3 +1,9 @@
-Developing video games
+# Hiayzei
 
-C#, Lua, C++
+**Developing video games**
+
+**Languages:**  
+- C#  
+- C++  
+- Lua  
+- JavaScript
